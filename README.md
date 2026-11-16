@@ -1,4 +1,3 @@
-
 ---
 title: AI-Based Plant Disease Detection
 emoji: 🌿
