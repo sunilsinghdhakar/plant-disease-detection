@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+.DS_Store
+runs/
+*.ipynb
+app_backup.py
+app_before_visual.py
+app_indent_backup.py
+severity_backup.py
+.agents/
+.claude/

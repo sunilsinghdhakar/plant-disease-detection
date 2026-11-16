@@ -1,0 +1,12 @@
+
+streamlit
+fastapi
+uvicorn
+python-multipart
+requests
+Pillow
+numpy
+opencv-python-headless
+torch
+torchvision
+ultralytics
