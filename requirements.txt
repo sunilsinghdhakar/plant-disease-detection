@@ -1,9 +1,8 @@
+
 streamlit==1.67.0
-fastapi==0.163.1
-uvicorn==0.54.0
-python-multipart
-requests
+torch
+torchvision
+ultralytics==8.4.215
 Pillow
 numpy
 opencv-python-headless
-ultralytics==8.4.215
